@@ -1,0 +1,7 @@
+{
+    "configuration": "JTAGAdapter=default,CDCOnBoot=default,PartitionScheme=minimal,CPUFreq=80,FlashMode=qio,FlashFreq=80,FlashSize=2M,UploadSpeed=921600,DebugLevel=info,EraseFlash=none",
+    "board": "esp32:esp32:esp32c3",
+    "output": ".\\build",
+    "sketch": "CloudCamMotionControl.ino",
+    "port": "COM9"
+}
